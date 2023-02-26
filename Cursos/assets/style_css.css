@@ -1,0 +1,61 @@
+* {
+  margin: 0px;
+}
+
+header {
+  background-color: black;
+  height: 200px;
+  border-radius: 5px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  line-height: 100px;
+}
+.flecha {
+  height: 50px;
+  width: 90px;
+}
+h1 {
+  text-align: center;
+  color: yellow;
+  font-size: 50px;
+}
+.html {
+  text-align: center;
+  font-size: 40px;
+}
+nav {
+  text-align: center;
+  font-size: 30px;
+  height: 90px;
+  border-radius: 5px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  line-height: 100px;
+}
+#contenedor {
+  width: 90%;
+  margin: auto;
+}
+section {
+  background-color: black;
+  color: white;
+  text-align: center;
+
+  height: 500px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+article {
+  font-size: 50px;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  height: 90px;
+  border-radius: 5px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  line-height: 100px;
+}
