@@ -1,0 +1,13 @@
+th,
+td {
+  border: 1px solid black;
+}
+.titulo {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.tabla {
+  text-align: center;
+}
